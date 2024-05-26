@@ -2,3 +2,4 @@
 *.csv
 check_status.ipynb
 combine.ipynb
+.ipynb_checkpoints
